@@ -32,8 +32,8 @@ This repository contains the deployment configuration for the CS720 platform wit
 
 ## Services
 
-- Frontend: http://10.38.38.107:3000
-- Backend API: http://10.38.38.107:3001
-- AI Service: http://10.38.38.107:3003
-- Proxy: http://10.38.38.107:3002
-- Ollama: http://10.38.38.107:11434
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:3001
+- AI Service: http://localhost:3003
+- Proxy: http://localhost:3002
+- Ollama: http://localhost:11434
