@@ -1,0 +1,6 @@
+# Ignore patch scripts
+fix-*.js
+*.backup
+
+# Ignore logs
+*.log
